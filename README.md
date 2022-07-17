@@ -1,3 +1,5 @@
+GraphTS
+_____________________________________________________________________________________________________________________________
 GraphTS is a novel method for building a complex network from the EMG time series to visualize and diagnose neuromuscular disorders. Also, classified health and patient samples using machine learning & deep learning techniques. This approach can also be used as an assistant tool to neuromuscular specialists:
 
 First, the three groups' healthy, myopathy, and neuropathy signals are prepared and processed (Combination of datasets I & II). The signals are windowed for accurate identification and investigation of the behavior of signals. 
